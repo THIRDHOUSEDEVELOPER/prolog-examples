@@ -7,7 +7,7 @@ male(elmer).
 female(anne).
 female(rosie).
 female(esther).
-female(mildred).
+female(mildred). 
 female(greatgramma).
 male(blair).
 male(god).
